@@ -1,2 +1,2 @@
-#myApp
-This is my app
+#clockAnimation
+	Clock Animation with HTML and CSS
